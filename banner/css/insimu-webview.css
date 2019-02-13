@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.ios-background {
+	background-color: #CFD2D2;
+}
+
+body{
+	background-color: #FAFBFB;
+}
+
+.insimu-text {
+	color: #24d1a4 !important;
+}
